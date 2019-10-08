@@ -16,7 +16,7 @@ An application introduced by Michael on October 7, 2019
 ## Screenshot(s)
 
 Page Load
-![Main View](https://raw.githubusercontent.com/gseals/pixel-art/master/screenshots/mainview.png)
+![Main View](https://raw.githubusercontent.com/gseals/pixel-art/master/screenshots/mainview2.png)
 
 
 ## Instructions for how to run the project
